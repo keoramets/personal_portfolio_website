@@ -1,0 +1,16 @@
+body {
+    font-family: "Arial";
+}
+
+.main-image {
+    border-radius: 50%;
+}
+
+h1 {
+    background-color: #e2e2e2;
+    padding: 20px;
+}
+
+.section-title{
+    text-transform: uppercase;
+}
